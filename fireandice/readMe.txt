@@ -1,0 +1,1 @@
+this is a react application: run using npm start/yarn start
